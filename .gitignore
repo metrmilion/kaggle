@@ -130,3 +130,6 @@ dmypy.json
 
 # CSV large data
 data/
+
+#projects data
+projects/
